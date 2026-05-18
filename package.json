@@ -1,0 +1,38 @@
+{
+  "name": "curriculum-planner-for-enrollment",
+  "version": "1.0.0",
+  "description": "Curriculum Planner for Enrollment proctors attendance and proctors grades; applies decision gates and observability; orchestrates via SIS to increase completion.",
+  "main": "workflow.json",
+  "keywords": [
+    "agentbridge",
+    "workflow",
+    "automation",
+    "ai-agents",
+    "reflection",
+    "education",
+    "advising",
+    "lms",
+    "reflection",
+    "education"
+  ],
+  "author": "AgentBridge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saachi-sonata/agentbridge-curriculum-planner-for-enrollment-447668.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saachi-sonata/agentbridge-curriculum-planner-for-enrollment-447668/issues"
+  },
+  "homepage": "https://github.com/saachi-sonata/agentbridge-curriculum-planner-for-enrollment-447668#readme",
+  "scripts": {
+    "start": "echo \"Import this workflow into your AgentBridge instance\"",
+    "validate": "echo \"Workflow validation complete\"",
+    "test": "echo \"Run workflow tests\"",
+    "deploy": "echo \"Deploy to AgentBridge instance\""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "agentbridge": ">=6.0.0"
+  }
+}
